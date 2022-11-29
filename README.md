@@ -1,7 +1,7 @@
 # QR-Code Generator React App 
 
 - For any text or URL, this App create a QR code, and it can download the QR-code as an image.
--  See Deployed App <a href="https://qrcode-download.web.app/" target="_blank">Here</a>
+-  See Deployed App <a href="https://qr-code.microengineer.in/" target="_blank">Here</a>
 <p align="center">
   <h3>Desktop view</h3>
   <img src="https://user-images.githubusercontent.com/61626411/200184363-cd91523e-aecd-4d5f-a60f-cd3b3727d755.png" alt="drawing" width="500" />
